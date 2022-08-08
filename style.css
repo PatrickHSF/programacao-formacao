@@ -14,7 +14,7 @@
 
  h1, h2, p {
  	text-align: center;
-  color: #8c8c8c;
+  color: #13605A;
  }
 /* FORMATAÇÃO DO MENU */
 nav {
@@ -42,3 +42,16 @@ nav {
   background:none;
   color:#FBB829;
  }
+
+/* formatacao img */
+.quadro_img {
+  width: 350px;
+  height: 350px;
+  border: 10px solid #FBB829;
+  border-radius: 20px;
+}
+
+.formatacao_img {
+  display: flex;
+  justify-content: center;
+}
