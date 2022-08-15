@@ -54,4 +54,10 @@ nav {
 .formatacao_img {
   display: flex;
   justify-content: center;
+  background: #fbb829;
+}
+
+/* formatacao da lista*/
+.lista_conteudo {
+    padding: 130px;
 }
