@@ -14,9 +14,21 @@
 
  h1, h2, p {
  	text-align: center;
+ }
+
+ .formatacao_cor_verde {
   color: #13605A;
  }
+ .formatacao_cor_branco {
+  color: #FFFFFF;
+ }
 /* FORMATAÇÃO DO MENU */
+header {
+  padding: 25px;
+  background: black;
+}
+
+
 nav {
   background:#13605A;
   width:100%;
@@ -60,4 +72,10 @@ nav {
 /* formatacao da lista*/
 .lista_conteudo {
     padding: 130px;
+}
+
+/* rodapé do site */
+footer {
+  background: black;
+  padding: 30px;
 }
